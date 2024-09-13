@@ -1,4 +1,4 @@
-package com.simplejava.restapi;
+package com.simplejava.restapi.beans;
 
 public class Student {
     private int id;
